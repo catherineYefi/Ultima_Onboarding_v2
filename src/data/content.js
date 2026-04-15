@@ -13,7 +13,7 @@ const content = {
     digitizeGpt: '#',
     unitEconomics: 'https://catherineyefi.github.io/ultima-unit-calculator/',
     decomp: 'https://catherineyefi.github.io/Decomp_calcul/',
-    roiSimulator: 'https://huggingface.co/spaces/CatherineYefi/4.0_AI_Business_Health_ROI_Simulator',
+
     ltvCalc: 'https://huggingface.co/spaces/CatherineYefi/4_0_ultima-ltv',
     plDashboard: 'https://docs.google.com/spreadsheets/d/1aoNaD2_l8vhGPHdfm2uZTA6-vI_ueZNg2exyNk8jcEY/edit?gid=1150867648',
     marketingDashboard: 'https://docs.google.com/spreadsheets/d/1w-SxeowrdCPUE_nGa8trGRPUot0eV7DW5HZt8Ohl3pE/edit?gid=1864750681',
@@ -191,7 +191,6 @@ const content = {
         items: [
           { label: 'Калькулятор', title: 'Unit Economics', linkKey: 'unitEconomics' },
           { label: 'Калькулятор', title: 'Декомпозиция цели', linkKey: 'decomp' },
-          { label: 'Калькулятор', title: 'ROI симулятор', linkKey: 'roiSimulator' },
           { label: 'Калькулятор', title: 'LTV калькулятор', linkKey: 'ltvCalc' },
         ],
       },
