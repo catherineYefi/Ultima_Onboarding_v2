@@ -388,9 +388,6 @@ function DetailRules() {
       {rules.consequences.map((c, i) => (
         <p key={i} className="text-xs mb-1" style={{ color: 'var(--text-secondary)' }}>• {c}</p>
       ))}
-      <div className="mt-3">
-        <LinkBtn linkKey="fullRules">Полные правила в Notion</LinkBtn>
-      </div>
     </div>
   )
 }
