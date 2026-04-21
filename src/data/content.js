@@ -10,7 +10,7 @@ const content = {
     ssTemplate: 'https://docs.google.com/presentation/d/1aGPjR50FmMKzS2vYGmhF8_8yOK-CYdT435dnHdNesqs/edit?usp=sharing',
     abTemplate: 'https://docs.google.com/presentation/d/1z_oHesd8fBq88aRzIpjaTCGa8-yCgw8ViFpYUsNJIAY/edit?slide=id.g3147509ae09_1_0',
     aiMentor: 'https://chatgpt.com/g/g-69d4ead5867881918b9b1fcb1158c1ad-ii-nastavnik-nechto-ultima-dlia-podgotovki-k-ss',
-    digitizeGpt: '#',
+    digitizeGpt: 'https://chatgpt.com/g/g-69e5f89a7f848191a7855b6ab5a48a68-otsifrovka-biznesa-ultima',
     unitEconomics: 'https://catherineyefi.github.io/ultima-unit-calculator/',
     decomp: 'https://catherineyefi.github.io/Decomp_calcul/',
 
